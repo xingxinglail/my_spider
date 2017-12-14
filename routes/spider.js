@@ -14,7 +14,7 @@ router.post('/crawl', (req, res) => {
     return data
   })()
     .then(c => {
-      console.log(c)
+      // console.log(c)
       res.json(c)
     })
     .catch(e => {
