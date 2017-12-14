@@ -3,9 +3,6 @@
 mongod --dbpath[path]
 ```
 ```sh
-use what_i_love
-```
-```sh
 npm i
 ```
 ```sh
