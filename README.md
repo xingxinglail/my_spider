@@ -6,7 +6,7 @@ mongod --dbpath[path]
 npm i
 ```
 ```sh
-node bin/www
+node bin/www 666
 ```
 
 [http://localhost:3000/spider](http://localhost:3000/spider)
